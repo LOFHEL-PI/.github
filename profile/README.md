@@ -1,40 +1,42 @@
 <h3 align="center">
-  <img src="https://i.imgur.com/qjRw1xJ.png" alt="SmartBerry_logo" height="85"/>
+  <img src="https://i.imgur.com/9yj3q9B.png" alt="SmartBerry_logo" height="85"/>
 </h3>
 
-# SmartBerry
+# LOFTHEL 
+<b>MONITORAMENTO INTELIGENTE DE TEMPERATURA E UMIDADE PARA VINICOLAS E ADEGAS</b>
 <p>
-Um projeto inovador voltado para o monitoramento climático no cultivo de morangos, ajudando agricultores familiares a maximizar sua produtividade e reduzir perdas. A tecnologia empregada permite a análise precisa da umidade do solo, garantindo que as plantas recebam a irrigação adequada no momento certo. Com o uso estratégico de sensores de umidade do solo capacitivo, o sistema notifica o produtor sobre variações na umidade no solo, permitindo ações preventivas para evitar impactos negativos na colheita.
+Um projeto inovador voltado para o monitoramento de temperatura e umidade em vinícolas e adegas, ajudando produtores a preservar a qualidade dos vinhos e reduzir perdas. A tecnologia empregada permite a análise precisa das condições ambientais, garantindo que os vinhos sejam armazenados nas condições ideais. Com o uso estratégico de sensores especializados, o sistema alerta os responsáveis sobre variações críticas, permitindo ações corretivas imediatas para evitar danos aos produtos.
 
-Além do aumento da eficiência no uso da água, o SmartBerry contribui para a sustentabilidade agrícola e para a rentabilidade do cultivo. A implementação dessa solução tecnológica assegura um manejo mais inteligente, promovendo colheitas de maior qualidade e um retorno financeiro mais previsível.
-</p>
+Além da preservação da qualidade, o LOFHEL contribui para a sustentabilidade do setor vinícola e para a rentabilidade dos negócios. A implementação dessa solução tecnológica assegura um gerenciamento mais inteligente dos estoques, promovendo produtos de maior valor agregado e reduzindo desperdícios financeiros.
+
+
 <p align="left">
-    <a href="https://github.com/SmartBerry-PI?tab=repositories">
+    <a href="https://github.com/LOFHEL-PI?tab=repositories">
         <img 
             alt="github repositorios" 
             title="github repositorios" 
             src="https://custom-icon-badges.demolab.com/badge/-Repositórios-blue?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
-    <a href="mailto:smart.berry@sptech">
+    <a href="mailto:lofhel@sptech">
         <img 
             alt="gmail" 
             title="Link para enviar um email" 
-            src="https://custom-icon-badges.demolab.com/badge/-smart.berry@sptech-red?style=for-the-badge&logo=mention&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/-lofhel@sptech-red?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a> 
-    <a href="https://github.com/SmartBerry-PI?tab=repositories&sort=stargazers">
+    <a href="https://github.com/LOFHEL-PI?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SmartBerry-PI?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/LOFHEL-PI?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
         />
     </a>
-    <a href="https://github.com/SmartBerry-PI?tab=followers">
+    <a href="https://github.com/LOFHEL-PI?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SmartBerry-PI?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/LOFHEL-PI?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
      <a href="https://www.bing.com/maps?q=S%C3%A3o+Paulo&satid=id.sid%3Ac6cf2f6e-626c-4267-ae48-9e13ea74d2b9&FORM=KC2MAP&cp=-23.683231%7E-46.595678&lvl=10.7">
@@ -46,46 +48,66 @@ Além do aumento da eficiência no uso da água, o SmartBerry contribui para a s
     </a>
 </p>
 
+## Problema 
+<p>
+- Temperaturas elevadas alteram sabor, aroma e cor do vinho. <br>
+- Alta umidade pode causar oxidação e proliferação de fungos. <br>
+- Falta de tecnologias modernas e investimento na área.
+</p>
+
+## Caso Real
+
+<p>Um colecionador de vinhos na Austrália perdeu R$ 750 mil devido a uma falha na regulagem da temperatura de sua adega. 🔗<a src="https://revistaadega.uol.com.br/artigo/empresa-que-fazia-manutencao-de-adega-e-processada_10409.html">Leia mais</a>  </p>
+
+## Solução
+
+<p>
+Sistema para monitoramento contínuo de temperatura e umidade, com alertas preventivos e gráficos para análise de dados em tempo real.
+
+<b>Parâmetros ideais de armazenamento:</b>
+- Vinho Tinto: 14°C a 18°C
+- Vinho Branco e Rosé: 7°C a 12°C
+- Umidade ideal: 50% a 80%
+</p>
 
 ## 💻 Site Institucional
 <p>
-    Nosso site apresenta todas as informações sobre o monitoramento climático aplicado ao cultivo de morangos.Oferecemos informações sobre a nossa tecnologia, beneficios e o nosso simulador financierio.  
-    Descubra como nossa tecnologia pode revolucionar sua produção, reduzindo desperdícios e otimizando recursos. Acompanhe estudos de caso, benefícios comprovados vanha conosco em nossa jornada de inovação
+Nosso site apresenta todas as informações sobre o monitoramento climático aplicado ao armazenamento de vinhos. Oferecemos detalhes sobre nossa tecnologia, benefícios e ferramentas de análise. Descubra como nossa solução pode revolucionar a gestão de sua vinícola ou adega, reduzindo perdas e mantendo a excelência dos produtos.
 </p>
-<img src="https://i.imgur.com/K7IIA68.jpeg" />
-<img src="https://i.imgur.com/8L108sp.png" />
-<img src="https://i.imgur.com/tTNoqUU.png" />
+<img src="https://i.imgur.com/PHGsW3J.png" />
+<img src="https://i.imgur.com/Xrslvco.png" />
+<img src="https://i.imgur.com/pFCaSwK.png" />
+<img src="https://i.imgur.com/tuwhNqp.png" />
+<img src="https://i.imgur.com/Icy15dH.png" />
 
-## 🤵 Sobre
-<p>
-Na aba sobre nós é onde estarão as informações de como o projeto surgiu, missão, valores e a equipe por trás da smartberry
-</p>
-<img src="https://i.imgur.com/zpt28cX.png" />
-<img src="https://i.imgur.com/sxAmvNF.png" />
 
 ## 🧑‍💼Cadastro e Login
 <p>
-  Com um cadastro simples e seguro, os produtores podem acessar uma plataforma exclusiva, personalizar suas configurações e acompanhar em tempo real as condições da lavoura. O login garante segurança total para que os dados sejam protegidos e acessíveis apenas para os responsáveis pelo cultivo, contando também com a secção esqueci a senha caso o usario a esqueça e possa acessar novamente sem problemas.
+Com um cadastro simples e seguro, os usuários podem acessar uma plataforma exclusiva para monitorar suas adegas em tempo real. O sistema garante a proteção dos dados conforme a LGPD, com opção de recuperação de senha quando necessário.
 </p>
-<img src="https://i.imgur.com/fXEQw1F.png" />
-<img src="https://i.imgur.com/2SOmLMW.png" />
+<img src="https://i.imgur.com/kESkuXY.png" />
+<img src="https://i.imgur.com/PhmnVSV.png" />
 
 ## 📈 Dashboard
 <p>
-  Nossa dashboard centraliza as informações sobre a umidade do solo, oferecendo análises detalhadas e notificações para que o produtor tome decisões rápidas e assertivas. Com gráficos intuitivos e atualizações em tempo real, o agricultor pode monitorar as condições climáticas e ajustar a irrigação conforme necessário, garantindo a melhor produtividade.
+  Nossa dashboard centraliza as informações sobre a umidade e temperatura das vinicolas, oferecendo análises detalhadas e notificações para que o produtor tome decisões rápidas e assertivas. 
 </p>
 <img src="https://i.imgur.com/upbmiYX.png"/>
 
 ## 🔢 Calculadora
 <p>
-A calculadora financeira permite que os produtores comparem o retorno financeiro do cultivo com e sem o uso da tecnologia SmartBerry. Além disso, a ferramenta sugere a quantidade ideal de sensores a serem utilizados para obter os melhores resultados. Consulte os cálculos e veja como a automação pode impactar positivamente sua produção.
+A calculadora financeira permite estimar o retorno do investimento ao implementar o LOFHEL, comparando cenários com e sem o sistema. A ferramenta ajuda a visualizar a redução de perdas e o aumento da eficiência operacional.
 </p>
-<img src="https://i.imgur.com/2tpBy1O.png"/>
+<img src="https://i.imgur.com/3GEurih.png"/>
+
+## 📊 Diagrama de visão de negócio
+
+<img src="https://i.imgur.com/E02oRqm.png"/>
 
 
 ## 🧱 Banco de Dados
 Consulte nossas tabelas nos repositorios
-
+<img src="https://i.imgur.com/8ekJKf0.png"/>
 ## 🗒️ Tecnologias usadas no projeto
 
 <img 
@@ -150,23 +172,15 @@ Consulte nossas tabelas nos repositorios
 <td  align="center"><a  href= "https://github.com/JhoelDiego2"><img src="https://avatars.githubusercontent.com/u/198672530?v=4" border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Jhoel </b></sub></a><br /><a  href="https://github.com/JhoelDiego2" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-
-<td  align="center"><a  href= "https://github.com/beatrizcarvalho005" ><img src="https://avatars.githubusercontent.com/u/198659994?v=4"  border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Beatriz </b></sub></a><br /><a  href="https://github.com/beatrizcarvalho005" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href= "https://github.com/Beno-Goulart" ><img src="https://avatars.githubusercontent.com/u/135740382?v=4"  border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Beno </b></sub></a><br /><a  href="https://github.com/Beno-Goulart" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-
-<td  align="center"><a  href="https://github.com/d1n4ara" ><img src="https://avatars.githubusercontent.com/u/112140354?v=4" border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Dandara </b></sub></a><br /><a  href="https://github.com/d1n4ara/Gabriel-SilvaSPTECH" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href="https://github.com/lucasealves" ><img src="https://avatars.githubusercontent.com/u/199615421?v=4" border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Lucas </b></sub></a><br /><a  href="https://github.com/lucasealves" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-
-<td  align="center"><a  href="https://github.com/KauanPaixao1" ><img src="https://i.imgur.com/peUQrIn.png" border-radius="50%";  height="120px"; width="100px;"/><br/><sub><b> Kauan </b></sub></a><br /><a  href="https://github.com/KauanPaixao1" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href="https://github.com/andreleao-sys" ><img  src="https://avatars.githubusercontent.com/u/199608747?v=4" border-radius="50%";  height="120px"; width="100px;"/><br/><sub><b> Gabrielly </b></sub></a><br /><a  href="https://github.com/andreleao-sys" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-
-<td  align="center"><a  href="https://github.com/andreleao-sys" ><img  src="https://avatars.githubusercontent.com/u/199608747?v=4" border-radius="50%";  height="120px"; width="100px;"/><br/><sub><b> Andre </b></sub></a><br /><a  href="https://github.com/andreleao-sys" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
-</td>
-<td  align="center"><a  href="https://github.com/LeonardoDaSilvaFilho" ><img  src="https://i.imgur.com/qjHEnPs.jpeg" border-radius="50%";  height="120px"; width="100px;"/><br/><sub><b> Leonardo </b></sub></a><br /><a  href="https://github.com/LeonardoDaSilvaFilho" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
-</td>
 <td  align="center"><a  href="https://github.com/Marialuizagoes31" ><img  src="https://i.imgur.com/Y6WVckH.png" border-radius="50%";  height="120px"; width="100px;"/><br/><sub><b> Maria </b></sub></a><br /><a  href="https://github.com/Marialuizagoes31" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 </table>
