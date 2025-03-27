@@ -169,18 +169,18 @@ Consulte nossas tabelas nos repositorios
 ## 👤 Equipe
 <table>
 
-<td  align="center"><a  href= "https://github.com/JhoelDiego2"><img src="https://avatars.githubusercontent.com/u/198672530?v=4" border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Jhoel </b></sub></a><br /><a  href="https://github.com/JhoelDiego2" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href= "https://github.com/JhoelDiego2"><img src="https://i.imgur.com/WqX7EHf.png" border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Jhoel </b></sub></a><br /><a  href="https://github.com/JhoelDiego2" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-<td  align="center"><a  href= "https://github.com/Beno-Goulart" ><img src="https://avatars.githubusercontent.com/u/135740382?v=4"  border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Beno </b></sub></a><br /><a  href="https://github.com/Beno-Goulart" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href= "https://github.com/Beno-Goulart" ><img src="https://i.imgur.com/bEqjKEd.png"  border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Beno </b></sub></a><br /><a  href="https://github.com/Beno-Goulart" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-<td  align="center"><a  href="https://github.com/lucasealves" ><img src="https://avatars.githubusercontent.com/u/199615421?v=4" border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Lucas </b></sub></a><br /><a  href="https://github.com/lucasealves" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href="https://github.com/lucasealves" ><img src="https://i.imgur.com/xXAQlJT.png" border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Lucas </b></sub></a><br /><a  href="https://github.com/lucasealves" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-<td  align="center"><a  href="https://github.com/andreleao-sys" ><img  src="https://avatars.githubusercontent.com/u/199608747?v=4" border-radius="50%";  height="120px"; width="100px;"/><br/><sub><b> Gabrielly </b></sub></a><br /><a  href="https://github.com/andreleao-sys" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href="https://github.com/andreleao-sys" ><img  src="https://i.imgur.com/DswIbvk.png" border-radius="50%";  height="120px"; width="100px;"/><br/><sub><b> Gabrielly </b></sub></a><br /><a  href="https://github.com/andreleao-sys" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-<td  align="center"><a  href="https://github.com/Marialuizagoes31" ><img  src="https://i.imgur.com/Y6WVckH.png" border-radius="50%";  height="120px"; width="100px;"/><br/><sub><b> Maria </b></sub></a><br /><a  href="https://github.com/Marialuizagoes31" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href="https://github.com/Marialuizagoes31" ><img  src="https://i.imgur.com/vZD4DQ0.png" border-radius="50%";  height="120px"; width="100px;"/><br/><sub><b> Maria </b></sub></a><br /><a  href="https://github.com/Marialuizagoes31" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 </table>
