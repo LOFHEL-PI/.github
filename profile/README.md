@@ -1,13 +1,13 @@
 <h3 align="center">
-  <img src="https://i.imgur.com/9yj3q9B.png" alt="SmartBerry_logo" height="85"/>
+  <img src="https://i.imgur.com/6rV1RSS.png" alt="vitisense_logo" height="85"/>
 </h3>
 
-# LOFTHEL 
+# VitiSense 
 <b>MONITORAMENTO INTELIGENTE DE TEMPERATURA E UMIDADE PARA VINICOLAS E ADEGAS</b>
 <p>
 Um projeto inovador voltado para o monitoramento de temperatura e umidade em vinícolas e adegas, ajudando produtores a preservar a qualidade dos vinhos e reduzir perdas. A tecnologia empregada permite a análise precisa das condições ambientais, garantindo que os vinhos sejam armazenados nas condições ideais. Com o uso estratégico de sensores especializados, o sistema alerta os responsáveis sobre variações críticas, permitindo ações corretivas imediatas para evitar danos aos produtos.
 
-Além da preservação da qualidade, o LOFHEL contribui para a sustentabilidade do setor vinícola e para a rentabilidade dos negócios. A implementação dessa solução tecnológica assegura um gerenciamento mais inteligente dos estoques, promovendo produtos de maior valor agregado e reduzindo desperdícios financeiros.
+Além da preservação da qualidade, o VitiSense contribui para a sustentabilidade do setor vinícola e para a rentabilidade dos negócios. A implementação dessa solução tecnológica assegura um gerenciamento mais inteligente dos estoques, promovendo produtos de maior valor agregado e reduzindo desperdícios financeiros.
 
 
 <p align="left">
@@ -74,7 +74,11 @@ Sistema para monitoramento contínuo de temperatura e umidade, com alertas preve
 <p>
 Nosso site apresenta todas as informações sobre o monitoramento climático aplicado ao armazenamento de vinhos. Oferecemos detalhes sobre nossa tecnologia, benefícios e ferramentas de análise. Descubra como nossa solução pode revolucionar a gestão de sua vinícola ou adega, reduzindo perdas e mantendo a excelência dos produtos.
 </p>
-<img src="https://i.imgur.com/PHGsW3J.png" />
+<img src="https://i.imgur.com/8kiXAch.png" />
+<img src="https://i.imgur.com/iNEbyPU.png" />
+<img src="https://i.imgur.com/ZiDJ58F.png" />
+<img src="https://i.imgur.com/ohvRQfT.png" />
+
 <img src="https://i.imgur.com/Xrslvco.png" />
 <img src="https://i.imgur.com/pFCaSwK.png" />
 <img src="https://i.imgur.com/tuwhNqp.png" />
@@ -169,18 +173,18 @@ Consulte nossas tabelas nos repositorios
 ## 👤 Equipe
 <table>
 
-<td  align="center"><a  href= "https://github.com/JhoelDiego2"><img src="https://i.imgur.com/WqX7EHf.png" border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Jhoel </b></sub></a><br /><a  href="https://github.com/JhoelDiego2" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href= "https://github.com/JhoelDiego2"><img src="https://i.imgur.com/SrytKsK.png" border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Jhoel </b></sub></a><br /><a  href="https://github.com/JhoelDiego2" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-<td  align="center"><a  href= "https://github.com/Beno-Goulart" ><img src="https://i.imgur.com/bEqjKEd.png"  border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Beno </b></sub></a><br /><a  href="https://github.com/Beno-Goulart" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href= "https://github.com/Beno-Goulart" ><img src="https://i.imgur.com/vd63gcA.png"  border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Beno </b></sub></a><br /><a  href="https://github.com/Beno-Goulart" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-<td  align="center"><a  href="https://github.com/lucasealves" ><img src="https://i.imgur.com/xXAQlJT.png" border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Lucas </b></sub></a><br /><a  href="https://github.com/lucasealves" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href="https://github.com/lucasealves" ><img src="https://i.imgur.com/7vymSTl.png" border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Lucas </b></sub></a><br /><a  href="https://github.com/lucasealves" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-<td  align="center"><a  href="https://github.com/andreleao-sys" ><img  src="https://i.imgur.com/DswIbvk.png" border-radius="50%";  height="120px"; width="100px;"/><br/><sub><b> Gabrielly </b></sub></a><br /><a  href="https://github.com/andreleao-sys" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href="https://github.com/Gabby-M745" ><img  src="https://i.imgur.com/LUK69zv.png" border-radius="50%";  height="120px"; width="100px;"/><br/><sub><b> Gabrielly </b></sub></a><br /><a  href="https://github.com/Gabby-M745" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-<td  align="center"><a  href="https://github.com/Marialuizagoes31" ><img  src="https://i.imgur.com/vZD4DQ0.png" border-radius="50%";  height="120px"; width="100px;"/><br/><sub><b> Maria </b></sub></a><br /><a  href="https://github.com/Marialuizagoes31" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href="https://github.com/Marialuizagoes31" ><img  src="https://i.imgur.com/6shbD82.png" border-radius="50%";  height="120px"; width="100px;"/><br/><sub><b> Maria </b></sub></a><br /><a  href="https://github.com/Marialuizagoes31" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 </table>
