@@ -7,7 +7,7 @@
 <p>
 Um projeto inovador voltado para o monitoramento de temperatura e umidade em vinícolas e adegas, ajudando produtores a preservar a qualidade dos vinhos e reduzir perdas. A tecnologia empregada permite a análise precisa das condições ambientais, garantindo que os vinhos sejam armazenados nas condições ideais. Com o uso estratégico de sensores especializados, o sistema alerta os responsáveis sobre variações críticas, permitindo ações corretivas imediatas para evitar danos aos produtos.
 
-Além da preservação da qualidade, o VitiSense contribui para a sustentabilidade do setor vinícola e para a rentabilidade dos negócios. A implementação dessa solução tecnológica assegura um gerenciamento mais inteligente dos estoques, promovendo produtos de maior valor agregado e reduzindo desperdícios financeiros.
+Além da preservação da qualidade, a Lofhel contribui para a sustentabilidade do setor vinícola e para a rentabilidade dos negócios. A implementação dessa solução tecnológica assegura um gerenciamento mais inteligente dos estoques, promovendo produtos de maior valor agregado e reduzindo desperdícios financeiros.
 
 
 <p align="left">
