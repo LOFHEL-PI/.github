@@ -1,8 +1,8 @@
 <h3 align="center">
-  <img src="https://i.imgur.com/6rV1RSS.png" alt="vitisense_logo" height="85"/>
+
 </h3>
 
-# VitiSense 
+# Lofhel
 <b>MONITORAMENTO INTELIGENTE DE TEMPERATURA E UMIDADE PARA VINICOLAS E ADEGAS</b>
 <p>
 Um projeto inovador voltado para o monitoramento de temperatura e umidade em vinícolas e adegas, ajudando produtores a preservar a qualidade dos vinhos e reduzir perdas. A tecnologia empregada permite a análise precisa das condições ambientais, garantindo que os vinhos sejam armazenados nas condições ideais. Com o uso estratégico de sensores especializados, o sistema alerta os responsáveis sobre variações críticas, permitindo ações corretivas imediatas para evitar danos aos produtos.
@@ -22,7 +22,7 @@ Além da preservação da qualidade, o VitiSense contribui para a sustentabilida
         <img 
             alt="gmail" 
             title="Link para enviar um email" 
-            src="https://custom-icon-badges.demolab.com/badge/-VitiSense@gmail-red?style=for-the-badge&logo=mention&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/-Lofhel@gmail-red?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a> 
      <a href="https://www.bing.com/maps?q=S%C3%A3o+Paulo&satid=id.sid%3Ac6cf2f6e-626c-4267-ae48-9e13ea74d2b9&FORM=KC2MAP&cp=-23.683231%7E-46.595678&lvl=10.7">
@@ -58,10 +58,9 @@ Sistema para monitoramento contínuo de temperatura e umidade, com alertas preve
 
 ## 💻 Site Institucional
 <p>
-Nosso site apresenta todas as informações sobre o monitoramento climático aplicado ao armazenamento de vinhos. Oferecemos detalhes sobre nossa tecnologia, benefícios e ferramentas de análise. Descubra como nossa solução pode revolucionar a gestão de sua vinícola ou adega, reduzindo perdas e mantendo a excelência dos produtos.🔗
-<a src = "https://www.figma.com/design/pntvnv2NHZUNdnWBkgTeYH/VitiSense?node-id=0-1&t=69oTQZKitt7V3yLC-1">Veja aqui o nosso protótipo</a>
+Nosso site apresenta todas as informações sobre o monitoramento climático aplicado ao armazenamento de vinhos. Oferecemos detalhes sobre nossa tecnologia, benefícios e ferramentas de análise. Descubra como nossa solução pode revolucionar a gestão de sua vinícola ou adega, reduzindo perdas e mantendo a excelência dos produtos.
 </p>
-<img src="https://i.imgur.com/8kiXAch.png" />
+
 
 
 ## 🔢 Calculadora
