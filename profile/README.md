@@ -18,27 +18,13 @@ Além da preservação da qualidade, o VitiSense contribui para a sustentabilida
             src="https://custom-icon-badges.demolab.com/badge/-Repositórios-blue?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
-    <a href="mailto:lofhel@sptech">
+    <a href="mailto:VitiSense@gmail">
         <img 
             alt="gmail" 
             title="Link para enviar um email" 
-            src="https://custom-icon-badges.demolab.com/badge/-lofhel@sptech-red?style=for-the-badge&logo=mention&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/-VitiSense@gmail-red?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a> 
-    <a href="https://github.com/LOFHEL-PI?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LOFHEL-PI?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://github.com/LOFHEL-PI?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LOFHEL-PI?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
      <a href="https://www.bing.com/maps?q=S%C3%A3o+Paulo&satid=id.sid%3Ac6cf2f6e-626c-4267-ae48-9e13ea74d2b9&FORM=KC2MAP&cp=-23.683231%7E-46.595678&lvl=10.7">
         <img 
            alt="Localização" 
@@ -72,31 +58,11 @@ Sistema para monitoramento contínuo de temperatura e umidade, com alertas preve
 
 ## 💻 Site Institucional
 <p>
-Nosso site apresenta todas as informações sobre o monitoramento climático aplicado ao armazenamento de vinhos. Oferecemos detalhes sobre nossa tecnologia, benefícios e ferramentas de análise. Descubra como nossa solução pode revolucionar a gestão de sua vinícola ou adega, reduzindo perdas e mantendo a excelência dos produtos.
+Nosso site apresenta todas as informações sobre o monitoramento climático aplicado ao armazenamento de vinhos. Oferecemos detalhes sobre nossa tecnologia, benefícios e ferramentas de análise. Descubra como nossa solução pode revolucionar a gestão de sua vinícola ou adega, reduzindo perdas e mantendo a excelência dos produtos.🔗
+<a src = "https://www.figma.com/design/pntvnv2NHZUNdnWBkgTeYH/VitiSense?node-id=0-1&t=69oTQZKitt7V3yLC-1">Veja aqui o nosso protótipo</a>
 </p>
 <img src="https://i.imgur.com/8kiXAch.png" />
-<img src="https://i.imgur.com/iNEbyPU.png" />
-<img src="https://i.imgur.com/ZiDJ58F.png" />
-<img src="https://i.imgur.com/ohvRQfT.png" />
 
-<img src="https://i.imgur.com/Xrslvco.png" />
-<img src="https://i.imgur.com/pFCaSwK.png" />
-<img src="https://i.imgur.com/tuwhNqp.png" />
-<img src="https://i.imgur.com/Icy15dH.png" />
-
-
-## 🧑‍💼Cadastro e Login
-<p>
-Com um cadastro simples e seguro, os usuários podem acessar uma plataforma exclusiva para monitorar suas adegas em tempo real. O sistema garante a proteção dos dados conforme a LGPD, com opção de recuperação de senha quando necessário.
-</p>
-<img src="https://i.imgur.com/kESkuXY.png" />
-<img src="https://i.imgur.com/PhmnVSV.png" />
-
-## 📈 Dashboard
-<p>
-  Nossa dashboard centraliza as informações sobre a umidade e temperatura das vinicolas, oferecendo análises detalhadas e notificações para que o produtor tome decisões rápidas e assertivas. 
-</p>
-<img src="https://i.imgur.com/upbmiYX.png"/>
 
 ## 🔢 Calculadora
 <p>
@@ -111,7 +77,6 @@ A calculadora financeira permite estimar o retorno do investimento ao implementa
 
 ## 🧱 Banco de Dados
 Consulte nossas tabelas nos repositorios
-<img src="https://i.imgur.com/8ekJKf0.png"/>
 ## 🗒️ Tecnologias usadas no projeto
 
 <img 
